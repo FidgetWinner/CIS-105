@@ -1,4 +1,3 @@
-
 Expenses = {}
 while(True):
     tempType = str(input("Enter the type of expense(enter e to exit): "))
